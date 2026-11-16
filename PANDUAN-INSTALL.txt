@@ -1,4 +1,4 @@
-SaeTech Free v1.0.18
+SaeTech Free v1.0.19
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
