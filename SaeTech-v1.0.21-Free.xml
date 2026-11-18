@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=saetech | releaseVersion=1.0.20 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.0.18 -->
+<!-- TemaBlogger release | product=saetech | releaseVersion=1.0.21 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.0.18 -->
 
 <!DOCTYPE html>
-<html b:templateVersion="1.0.20" b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:version='2' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:templateVersion="1.0.21" b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:version='2' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <!-- sae-theme: SaeTech v1.0.12 | Original implementation, Atlas visual reference -->
 <head><meta content='width=device-width, initial-scale=1' name='viewport'/><b:include data='blog' name='all-head-content'/><b:if cond='!data:blog.metaDescription'><meta expr:content='(data:view.isPost or data:view.isPage) ? data:blog.pageName + &quot;. Baca panduan dan tips praktis selengkapnya di SaeTech.&quot; : data:view.search.label ? &quot;Artikel &quot; + data:view.search.label + &quot; di SaeTech. Temukan panduan, ulasan, dan tips praktis sesuai kebutuhan Anda.&quot; : &quot;SaeTech membahas teknologi, gadget, ulasan, kuliner, gaya hidup, dan fashion. Temukan panduan serta tips praktis untuk aktivitas sehari-hari.&quot;' name='description'/><meta expr:content='(data:view.isPost or data:view.isPage) ? data:blog.pageName + &quot;. Baca panduan dan tips praktis selengkapnya di SaeTech.&quot; : data:view.search.label ? &quot;Artikel &quot; + data:view.search.label + &quot; di SaeTech. Temukan panduan, ulasan, dan tips praktis sesuai kebutuhan Anda.&quot; : &quot;SaeTech membahas teknologi, gadget, ulasan, kuliner, gaya hidup, dan fashion. Temukan panduan serta tips praktis untuk aktivitas sehari-hari.&quot;' property='og:description'/><meta expr:content='(data:view.isPost or data:view.isPage) ? data:blog.pageName + &quot;. Baca panduan dan tips praktis selengkapnya di SaeTech.&quot; : data:view.search.label ? &quot;Artikel &quot; + data:view.search.label + &quot; di SaeTech. Temukan panduan, ulasan, dan tips praktis sesuai kebutuhan Anda.&quot; : &quot;SaeTech membahas teknologi, gadget, ulasan, kuliner, gaya hidup, dan fashion. Temukan panduan serta tips praktis untuk aktivitas sehari-hari.&quot;' name='twitter:description'/></b:if><title><data:blog.pageTitle/></title>
 <b:skin><![CDATA[
@@ -432,7 +432,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 <aside aria-label='Iklan desktop kiri' class='sae-ad-rail sae-rail-kiri tbly-group tbly-rail-left' id='saeRailLeft'><button aria-label='Tutup iklan kiri' class='sae-ad-close tbly-ignore' data-ad-close='saeRailLeft' type='button'>&#215;</button><b:section class='sae-ad-slot' id='saeAdLeft' name='Iklan desktop kiri' showaddelement='yes'>
